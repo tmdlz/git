@@ -3,7 +3,7 @@
 ## 📥 1. Téléchargement
 
 Rendez-vous sur le site officiel de Git :
-**[https://git-scm.com/download/windows](https://git-scm.com/download/windows)**
+**[https://git-scm.com/download/windows](https://git-scm.com)**
 
 Le téléchargement démarre automatiquement. Sinon, cliquez sur le bouton de téléchargement.
 

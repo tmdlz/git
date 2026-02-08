@@ -1,5 +1,8 @@
 # 📚 Git & GitHub - Guide Complet pour Débutants
 
+Ressource 
+[https://www.youtube.com/watch?v=mAFoROnOfHs&t=3135s] - Git & GitHub Crash Course for Beginners
+
 > Un tutoriel complet pour maîtriser Git et GitHub de A à Z
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)

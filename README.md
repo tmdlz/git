@@ -1,6 +1,6 @@
 # 📚 Git & GitHub - Guide Complet
 
-J'ai personnellement regarder cette vidéo : 
+J'ai personnellement regardé cette vidéo : 
 [Git & GitHub Crash Course for Beginners](https://www.youtube.com/watch?v=mAFoROnOfHs&t=3135s)
 
 > Un tutoriel complet pour maîtriser Git et GitHub de A à Z (Je reviens sur ce guide quand j'ai besoin de me remémorer)
